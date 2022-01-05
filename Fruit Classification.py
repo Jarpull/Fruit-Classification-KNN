@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon May 18 15:58:20 2020
-
-@author: Daniel Manurung
-"""
 
 import cv2 as cv
 import glob
